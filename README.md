@@ -18,3 +18,6 @@ The data set contains the following 3 tables which you may refer to the relation
 sales
 members
 menu
+
+
+https://www.google.com/search?q=dannys+diner+entity+relationship+diagram&oq=dannys+diner+entity+relationship+diagram+&aqs=chrome..69i57j33i10i160l4.18932j0j4&sourceid=chrome&ie=UTF-8#imgrc=2JWNdgbtBRhXFM
