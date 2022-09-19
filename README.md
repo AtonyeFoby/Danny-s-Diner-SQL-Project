@@ -20,4 +20,4 @@ members
 menu
 
 
-https://github.com/AtonyeFoby/Danny-s-Diner-SQL-Project/blob/main/1_PIhL73m7boVx6RJqd7TRjg.png
+![1_PIhL73m7boVx6RJqd7TRjg](https://user-images.githubusercontent.com/91577316/191049632-971a91c3-56aa-4485-9c34-e7b76efc093e.png)
